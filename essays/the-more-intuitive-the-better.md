@@ -10,7 +10,7 @@ labels:
   - JavaScript
 ---
 
-<img class="ui small right floated rounded image" src="../img/ESLint_logo.png">
+<img class="img-fluid" src="../img/ESLint_logo.png">
 
 ## Coding standards allow for consistency
 

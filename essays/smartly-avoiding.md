@@ -11,7 +11,7 @@ labels:
 
 ## Intro
 
-<img class="ui medium right floated rounded image" src="../img/apple-touch-icon_400x400.png">
+<img class="img-fluid" src="../img/apple-touch-icon_400x400.png">
 
 On the subject of getting an answer, Eric Raymond states in [*How to ask questions the smart way*](http://www.catb.org/esr/faqs/smart-questions.html) that:
 

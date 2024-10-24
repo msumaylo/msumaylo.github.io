@@ -11,7 +11,7 @@ labels:
 summary: A "bullet hell" shoot-em-up game I developed for ICS 111.
 ---
 
-<img class="ui image" src="../img/ICS111_project3_screenshot.png">
+<img class="img-fluid" src="../img/ICS111_project3_screenshot.png">
 
 ## Intro: how I decided to do the project
 
@@ -28,10 +28,13 @@ For this project, I made use of the EZ.Java class provided by my ICS 111 instruc
 
 Here is some brief gameplay footage:
 
-<div class="ui embed" data-source="youtube" data-id="Y9jdQ1VIyWM" >
+
+<div class="ratio ratio-4x3 my-4">
+  <iframe src="https://www.youtube.com/embed/Y9jdQ1VIyWM?si" 
+          title="Gameplay footage" 
+          allowfullscreen>
+  </iframe>
 </div>
-
-
 
 
 Source code may be found [here](https://github.com/msumaylo/ICS111F19-touhou-EoTD).

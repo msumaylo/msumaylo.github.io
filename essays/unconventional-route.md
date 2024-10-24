@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui medium left floated image" src="../img/218703-super-mario-world-snes-screenshot-title-screen.png">
+<img class="img-fluid" src="../img/218703-super-mario-world-snes-screenshot-title-screen.png">
 
 ## Computer science wasn't initially a consideration
 

@@ -14,7 +14,7 @@ summary: A prototype trash compactor created for reducing overflow in school tra
 
 ## Intro
 
-<img class="ui medium image" src="../img/IMG_1019.JPG">
+<img class="img-fluid" src="../img/IMG_1019.JPG">
 
 This trash compactor prototype was created by myself and two other classmates in my senior year at McKinley High School. At this time, I was pursuing Engineering as my major of choice. This project helped me learn how to work in a group, and how to be resourceful.
                                                         
@@ -22,9 +22,9 @@ This prototype was created to solve the issue of trash cans being overfilled dur
 
 ## Contributions
 
-<div class="ui medium img">
-  <img class="ui image" src="../img/trash_compactor_isometric_view.PNG">
-  <img class="ui image" src="../img/trash_compactor_side_view.PNG">
+<div class="text-center p-4">
+  <img class="img-fluid" src="../img/trash_compactor_isometric_view.PNG">
+  <img class="img-fluid" src="../img/trash_compactor_side_view.PNG">
 </div>
 
 My contributions to this project was conceptualizing the design and the drafting of the design using Computer Aided Design (CAD). The conceptualizing process was carried out collectively between the three of us, but CAD work was primarily carried out by me, with my teammates sharing some of the CAD duties along with their roles of construction and resource gathering. The main software I made use of was [OnShape](https://www.onshape.com) for CAD drafting and the collaboration that it could facilitate.

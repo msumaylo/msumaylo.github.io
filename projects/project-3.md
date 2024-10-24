@@ -13,7 +13,7 @@ summary: First project I created for ICS 111. Earliest programming project I mad
 
 ## Intro
 
-<img class="ui image" src="{{ site.baseurl }}/img/ICS111_project1_screenshot1.png">
+<img class="img-fluid" src="{{ site.baseurl }}/img/ICS111_project1_screenshot1.png">
 
 Project 1/hawaiiFiveOhKaGofer is a simple collect-the-item “driving” game, created as my first project in ICS 111, Fall 2019. This was the first programming project I have ever done, created when I originally pursued mechanical engineering instead of computer science.
 
@@ -21,11 +21,11 @@ Project 1/hawaiiFiveOhKaGofer is a simple collect-the-item “driving” game, c
 
 The objective of this game is simple: collect the items laid out throughout the map.
 
-<img class="ui image" src="{{ site.baseurl }}/img/ICS111_project1_screenshot2.png">
+<img class="img-fluid" src="{{ site.baseurl }}/img/ICS111_project1_screenshot2.png">
 
 While doing so, avoid crashing into the people and buildings, otherwise game over.
 
-<img class="ui image" src="{{ site.baseurl }}/img/ICS111_project1_screenshot3.png">
+<img class="img-fluid" src="{{ site.baseurl }}/img/ICS111_project1_screenshot3.png">
 
 ## How I created the game
 

@@ -17,7 +17,7 @@ It has been a long road, but the end of the semester marks the end of my time in
 
 ## Coding standards
 
-<img class="ui small left floated image" src="../img/ESLint_logo.png">
+<img class="img-fluid" src="../img/ESLint_logo.png">
 
 One of the first fundamental concepts we explored in the semester were coding standards. Coding standards ensure that code written by different people stays readable and consistent, as if it was written all by one person. They usually also ensure that common syntax and language-related errors are not present in the code.
 
@@ -36,6 +36,6 @@ Software development process models are a way to describe the particular methods
 
 Here is an example of a project board: 
 
-<img class="ui image" src="../img/project-board-example.png">
+<img class="img-fluid" src="../img/project-board-example.png">
 
 I think that agile models such as IDPM may be something I encounter in the game development when in smaller teams or organizations. It would probably even be something I would use to facilitate development for situations such as personal projects. With tasks having to be at most 3 days worth of work, it allows for more larger tasks to be broken down into more manageable bits. Within the context of game development, the end of milestones would still conclude with the release or testing of the product at that point in development.

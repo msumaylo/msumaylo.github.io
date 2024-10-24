@@ -16,7 +16,7 @@ labels:
 summary: A centralized database for both official and unofficial organizations on the University of Hawaii Mānoa campus
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/img/landing-page-final.PNG">
+<img class="img-fluid" src="{{ site.baseurl }}/img/landing-page-final.PNG">
 
 ## Overview
 
@@ -26,7 +26,7 @@ The Manoa Organization Database was a group project created for the ICS 314: Sof
 
 My contributions to the application included modifying the landing page, navbar and signup page provided in [Bowfolios](https://bowfolios.github.io/), one of the templates provided by our ICS 314 professors to use as a starting point for the projects. The signup page in particular required having to add new fields to take in values such as a student ID, along with a first and last name instead of just a singular name value.
 
-<img class="ui image" src="{{ site.baseurl }}/img/signup-page.PNG">
+<img class="img-fluid" src="{{ site.baseurl }}/img/signup-page.PNG">
 
 In addition, I created tests for the different pages, using the preexisting tests in Bowfolios as a reference for the different TestCafe commands needed.
 
