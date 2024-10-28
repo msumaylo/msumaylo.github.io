@@ -33,10 +33,11 @@ The game was created using the EZ.Java class, which provided various methods for
 
 Here is some brief gameplay footage (reducing video volume is recommended):
 
-<div class="ui embed" data-source="youtube" data-id="Q6qIZSRn_GM" >
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/qdVtvuLn6DY?si=SPpmmp7LisqE0Fut"
+  title="YouTube video" allowfullscreen>
+  </iframe>
 </div>
-
-
 
 
 Source code may be found [here](https://github.com/msumaylo/ICS111F19-hawaiiFiveOhKaGofer).

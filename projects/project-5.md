@@ -33,9 +33,11 @@ The game was created using Unity throughout July and early August 2022. During t
 
 Here is some brief gameplay footage:
 
-<div class="ui embed" data-source="youtube" data-id="Qk0WcdlQioQ" >
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/Qk0WcdlQioQ?si=SjDOuclPo3micaeI"
+  title="YouTube video" allowfullscreen>
+  </iframe>
 </div>
-
 
 
 

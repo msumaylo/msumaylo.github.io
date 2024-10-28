@@ -29,9 +29,9 @@ For this project, I made use of the EZ.Java class provided by my ICS 111 instruc
 Here is some brief gameplay footage:
 
 
-<div class="ratio ratio-4x3 my-4">
+<div class="ratio ratio-16x9 my-4">
   <iframe src="https://www.youtube.com/embed/Y9jdQ1VIyWM?si" 
-          title="Gameplay footage" 
+          title="YouTube video" 
           allowfullscreen>
   </iframe>
 </div>
