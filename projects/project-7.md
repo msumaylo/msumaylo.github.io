@@ -23,6 +23,8 @@ For this project, my group decided to make a simple 3D platformer game based on 
 
 In this game, you need to make it from the start of the level to the end of the level, all while trying to shoot the enemies placed throughout and without falling off the platforms.
 
+Using the other buttons on the VR controllers, the player can also make use of a bomb weapon to clear blocks obstructing some areas of the map
+
 ## Video
 
 (insert video)
