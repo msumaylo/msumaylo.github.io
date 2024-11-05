@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/airattack_gameplay.png
+image: img\tf2-koth-map\hammerview103124.PNG
 title: "Untitled TF2 map"
 permalink: projects/tf2kothmap
 # All dates must be YYYY-MM-DD format!
@@ -41,6 +41,11 @@ More information on this game, classes, modes and mechanics can be found on the 
 This map was created using [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), a community-created upgrade to Hammer, Valve's official editor for the Source Engine. Before starting this map, I started making a rough sketch of how I wanted the map to be laid out.
 
 (insert sketch)
+
+Once I created the sketch, I started creating the initial version of the map in Hammer++, using TF2's dev textures to just block out the various sections of the map. 
+I went with the setting of a railyard, as it would allow me to use railcars to act as platforms and walls for certain sections of the map. In addition, it allowed me to not have to make very complex displacements (what Source uses to have more naturalistic terrain).
+
+<img class="img-fluid" src="../img/tf2-koth-map/hammerview103124.PNG">
 
 
 
