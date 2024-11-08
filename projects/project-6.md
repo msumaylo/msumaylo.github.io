@@ -28,3 +28,4 @@ In this game, enemies are sent out from various directions. In the middle of the
 
 To hit enemies, you make your player chracter move so your arms or body make contact with the enemies. The game then also tracked the number of enemies you hit.
 
+## Contributions

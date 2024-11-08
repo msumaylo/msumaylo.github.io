@@ -20,6 +20,12 @@ This project was the final group project for a Data Visualization class taken du
 
 ## Description
 
+## Contributions
+wip:
+
+- selection of database
+- back-end
+- 
 
 ## Video
 
