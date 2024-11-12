@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img\tf2-koth-map\hammerview103124.PNG
+image: img\tf2-koth-map\squaredprogressimg.jpg
 title: "Untitled TF2 map"
 permalink: projects/tf2kothmap
 # All dates must be YYYY-MM-DD format!
@@ -9,7 +9,7 @@ date: 2024-09-03
 published: false
 labels:
   - Level Design
-  - Hammer++
+  - Hammer/Hammer++
   - Source Engine
 summary: Custom King of the Hill map created for the game Team Fortress 2.
 ---
@@ -38,16 +38,24 @@ More information on this game, classes, modes and mechanics can be found on the 
 
 ## Description
 
-This map was created using [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), a community-created upgrade to Hammer, Valve's official editor for the Source Engine. Before starting this map, I started making a rough sketch of how I wanted the map to be laid out.
+This map was created using [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), a community-created upgrade to Hammer, Valve's official editor for the Source Engine. Before starting this map, I started making a rough sketch (scan shown below with exposure and contrast adjusted for visibility) of how I wanted the map to be laid out.
 
-(insert sketch)
+<img class="img-fluid" src="../img/tf2-koth-map/sketchadjustedexposuecontrast.png">
 
 Once I created the sketch, I started creating the initial version of the map in Hammer++, using TF2's dev textures to just block out the various sections of the map. 
-I went with the setting of a railyard, as it would allow me to use railcars to act as platforms and walls for certain sections of the map. In addition, it allowed me to not have to make very complex displacements (what Source uses to have more naturalistic terrain).
+I went with the setting of a railyard, as it would allow me to use the game's existing railcar models to act as platforms and walls for certain sections of the map. In addition, it allowed me to not have to make very complex displacements (what Source uses to have more naturalistic terrain) until later.
 
 <img class="img-fluid" src="../img/tf2-koth-map/hammerview103124.PNG">
 
+Once completing some sections of the map, I would then have Hammer++ compile the map and then run the map in Team Fortress 2. I would usually walk around and test it using various classes, to see if they would be able to traverse across certain jumps, or make use of their movement abilities in an intended manner.
 
+(add more)
+
+## Considerations made
+
+When creating the map, there were several factors I took note of while making the layout of the map. For example, 
+
+(right path from spawn, broken up w/ props to allow classes to go that way without having snipers completely lock it down)
 
 ## Video
 
